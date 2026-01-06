@@ -1,0 +1,16 @@
+path: /content/drive/MyDrive/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+- 2_taka_note
+- 5_taka_note
+- 10_taka_note
+- 20_taka_note
+- 50_taka_note
+- 100_taka_note
+- 200_taka_note
+- 500_taka_note
+- 1000_taka_note
+- 2_taka_coin
+- 5_taka_coin
